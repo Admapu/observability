@@ -1,0 +1,3 @@
+GRAPHQL_ENDPOINT=https://api.studio.thegraph.com/query/<subgraph-id>/<subgraph-name>/version/latest
+GRAPH_API_KEY=
+GRAPH_TIMEOUT_MS=10000
