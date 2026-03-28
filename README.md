@@ -45,6 +45,8 @@ Autenticarse en Cloudflare con Wrangler y luego:
 make deploy
 ```
 
+Actualmente deployado en [observability.admapu.xyz/metrics](https://observability.admapu.xyz/metrics).
+
 ## Métricas expuestas
 
 Globales:
