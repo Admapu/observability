@@ -5,3 +5,6 @@ compatibility_date = "2026-03-27"
 [observability]
 enabled = true
 
+[vars]
+GRAPHQL_ENDPOINT = "https://api.studio.thegraph.com/query/1745295/admapu/version/latest"
+GRAPH_TIMEOUT_MS = "10000"
